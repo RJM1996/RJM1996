@@ -20,3 +20,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+  <a href="https://github.com/CatsJuice/ssr-contributions-img">
+
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://ssr-contributions-svg.vercel.app/_/RJM1996?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink&dark=true">
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://ssr-contributions-svg.vercel.app/_/RJM1996?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
+      <img alt=""
+        src="https://ssr-contributions-svg.vercel.app/_/RJM1996?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
+    </picture>
+  </a>
+
+
+</div>
